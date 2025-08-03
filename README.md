@@ -1,2 +1,1 @@
-# mimeus-app-react-ts
-Created with CodeSandbox
+# Mimeus AI App
